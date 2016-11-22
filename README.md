@@ -5,9 +5,10 @@ Frontend developers bookmarks
 
 ## Made by Google
 + [Web Starter Kit by Google](https://github.com/google/web-starter-kit)
-+ [Mobile Website Speed Testing Tool by Google](https://testmysite.thinkwithgoogle.com/)
-+ [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
-+ [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
++ [Mobile Website Speed Testing Tool by Google](https://testmysite.thinkwithgoogle.com/) - Test your sites performance on mobile with Google and receive recommendations for improving performance across all devices.
++ Google guides 
+    + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+    + [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## Tools
 + [W3C Markup Validation](https://validator.w3.org/)
@@ -23,7 +24,7 @@ Frontend developers bookmarks
 + [Line-height units](http://tzi.fr/css/line-height-units) (28/10/2013)
 
 ## Sass
-+ [Sass Basics](http://sass-lang.com/guide)
++ [Sass Basics](http://sass-lang.com/guide) - Official Sass guide.
 + [Sass 3.3 Maptastic paple](http://thesassway.com/news/sass-3-3-released)
 + [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/) (27/02/2014)
 + [Sass Guidelines](https://sass-guidelin.es/)
@@ -41,4 +42,5 @@ Frontend developers bookmarks
 + [Comment perdre du poids (dans le navigateur)](https://browserdiet.com/fr/)
 + [Defer images without jQuery or lazy loading](https://varvy.com/pagespeed/defer-images.html)
 
-
+## Time-saving
++ [Browsersync](https://www.browsersync.io/) - Synchronised browser testing.
