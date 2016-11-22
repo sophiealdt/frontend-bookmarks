@@ -25,13 +25,13 @@ Frontend developers bookmarks
 
 ## Sass
 + [Sass Basics](http://sass-lang.com/guide) - Official Sass guide.
-+ [Sass 3.3 Maptastic paple](http://thesassway.com/news/sass-3-3-released)
-+ [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/) (27/02/2014)
-+ [Sass Guidelines](https://sass-guidelin.es/)
++ [Sass 3.3 Maptastic paple](http://thesassway.com/news/sass-3-3-released) - New features in Sass version 3.3
++ [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/) - One of the architectures for sass projects (27/02/2014)
++ [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 + [Awesome Sass](https://github.com/Famolus/awesome-sass) - Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 
 ## JS (jQuery)
-+ [jQuery Tips Everyone Should Know ](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
++ [jQuery Tips Everyone Should Know ](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of simple tips to help up your jQuery game.
 + [slick](http://kenwheeler.github.io/slick/) - Responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping and much more !
 + [bxSlider](http://bxslider.com/) - The Responsive jQuery Content Slider.
 + [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling JavaScript library for mobile (Android, iOS, etc.) and desktop. (inactive since about Septembre 2014)
