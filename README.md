@@ -12,7 +12,7 @@ Frontend developers bookmarks
 
 ## Tools
 + [W3C Markup Validation](https://validator.w3.org/)
-+ Device sizes
++ Devices sizes
     + [mydevice.io](http://www.mydevice.io/) - Web devices capabilities.
     + [Screensiz.es](http://screensiz.es/phone) - Database of screen specifications for the most popular devices on the market.
 + [Modernizr Test Suit](http://modernizr.github.io/Modernizr/test/) - Test browser features with modernizr
