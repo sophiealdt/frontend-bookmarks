@@ -12,12 +12,12 @@ Frontend developers bookmarks
 
 ## Tools
 + [W3C Markup Validation](https://validator.w3.org/)
-+ [mydevice.io](http://www.mydevice.io/) - web devices capabilities
-+ [Screensiz.es](http://screensiz.es/phone)
-+ [Modernizr Test Suit](http://modernizr.github.io/Modernizr/test/)
-+ [HTML Elements and Attributes](https://simon.html5.org/html-elements)
-+ [Débogueur - Facebook for Developers](https://developers.facebook.com/tools/debug/)
-+ [EditorConfig](http://editorconfig.org/)
++ Device sizes
+    + [mydevice.io](http://www.mydevice.io/) - Web devices capabilities.
+    + [Screensiz.es](http://screensiz.es/phone) - Database of screen specifications for the most popular devices on the market.
++ [Modernizr Test Suit](http://modernizr.github.io/Modernizr/test/) - Test browser features with modernizr
++ [HTML Elements and Attributes](https://simon.html5.org/html-elements) - List of all HTML tags and attributes
++ [Sharing Debugger - Facebook for Developers](https://developers.facebook.com/tools/debug/) - See what is shared on Facebook
 
 ## CSS
 + [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) (23/07/2012)
@@ -44,3 +44,6 @@ Frontend developers bookmarks
 
 ## Time-saving
 + [Browsersync](https://www.browsersync.io/) - Synchronised browser testing.
+
+## Others
++ [EditorConfig](http://editorconfig.org/)
