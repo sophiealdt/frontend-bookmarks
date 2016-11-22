@@ -20,8 +20,8 @@ Frontend developers bookmarks
 + [Sharing Debugger - Facebook for Developers](https://developers.facebook.com/tools/debug/) - See what is shared on Facebook
 
 ## CSS
-+ [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) (23/07/2012)
-+ [Line-height units](http://tzi.fr/css/line-height-units) (28/10/2013)
++ [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) (French - 23/07/2012)
++ [Line-height units](http://tzi.fr/css/line-height-units) - Which unit should we use for our CSS line-height? (28/10/2013)
 
 ## Sass
 + [Sass Basics](http://sass-lang.com/guide) - Official Sass guide.
