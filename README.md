@@ -20,6 +20,8 @@ Frontend developers bookmarks
 + [Sharing Debugger - Facebook for Developers](https://developers.facebook.com/tools/debug/) - See what is shared on Facebook
 
 ## CSS
++ [CSS Guidelines](http://cssguidelin.es/) - High-level advice and guidelines for writing sane, manageable, scalable CSS
++ [Idiomatic CSS Guidelines](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS
 + [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) (French - 23/07/2012)
 + [Line-height units](http://tzi.fr/css/line-height-units) - Which unit should we use for our CSS line-height? (28/10/2013)
 
@@ -30,8 +32,10 @@ Frontend developers bookmarks
 + [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 + [Awesome Sass](https://github.com/Famolus/awesome-sass) - Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 
-## JS (jQuery)
+## Javascript
 + [jQuery Tips Everyone Should Know ](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of simple tips to help up your jQuery game.
+
+### Plugins
 + [slick](http://kenwheeler.github.io/slick/) - Responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping and much more !
 + [bxSlider](http://bxslider.com/) - The Responsive jQuery Content Slider.
 + [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling JavaScript library for mobile (Android, iOS, etc.) and desktop. (inactive since about Septembre 2014)
@@ -39,6 +43,7 @@ Frontend developers bookmarks
 + [Masonry](https://github.com/desandro/masonry) - Cascading grid layout library
 
 ## Performances
++ [Yahoo's performance guidelines ](https://developer.yahoo.com/performance/rules.html) - Best practices for speeding up your site web
 + [Comment perdre du poids (dans le navigateur)](https://browserdiet.com/fr/)
 + [Defer images without jQuery or lazy loading](https://varvy.com/pagespeed/defer-images.html)
 
