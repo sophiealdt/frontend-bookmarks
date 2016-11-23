@@ -55,6 +55,7 @@ Frontend developers bookmarks
 + [Yahoo's performance guidelines ](https://developer.yahoo.com/performance/rules.html) — Best practices for speeding up your site web.
 + [Comment perdre du poids (dans le navigateur)](https://browserdiet.com/fr/)
 + [Defer images without jQuery or lazy loading](https://varvy.com/pagespeed/defer-images.html)
++ [CSS box-shadow Can Slow Down Scrolling](http://nerds.airbnb.com/box-shadows-are-expensive-to-paint/)
 
 ## Time-saving
 + [Browsersync](https://www.browsersync.io/) — Synchronised browser testing.
