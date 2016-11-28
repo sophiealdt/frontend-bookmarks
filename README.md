@@ -26,6 +26,7 @@ Frontend developers bookmarks
 ## CSS
 + [CSS Guidelines](http://cssguidelin.es/) — High-level advice and guidelines for writing sane, manageable, scalable CSS.
 + [Maintainable CSS](http://maintainablecss.com/) — MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
++ [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologies)
 + [Stylelint](http://stylelint.io/) — A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
 + [Lint your CSS with stylelint](https://css-tricks.com/stylelint/)
 + [Line-height units](http://tzi.fr/css/line-height-units) — Which unit should we use for our CSS line-height? (28/10/2013)
