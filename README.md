@@ -24,6 +24,7 @@ Frontend developers bookmarks
 + [HEAD](https://github.com/joshbuchea/HEAD) — A list of everything that could go in the <head> of your document.
 
 ## CSS
++ [CSS Reference](http://cssreference.io/) — A free visual guide to the most popular CSS properties.
 + [CSS Guidelines](http://cssguidelin.es/) — High-level advice and guidelines for writing sane, manageable, scalable CSS.
 + [Maintainable CSS](http://maintainablecss.com/) — MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
 + [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologies)
