@@ -35,6 +35,7 @@ Frontend developers bookmarks
 + [Flexbox Froggy](http://flexboxfroggy.com/) — Learn flexbox with Froggy and friends.
 + [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) (French - 23/07/2012)
 + [CSS Triggers](https://csstriggers.com/) — A reference for the render impact of mutating CSS properties.
++ [From Sass to PostCSS](https://tylergaw.com/articles/sass-to-postcss) — Making the switch from the long time go-to Sass, to a new PostCSS/cssnext styling setup.
 
 ## Sass
 + [Sass Basics](http://sass-lang.com/guide) — Official Sass guide.
