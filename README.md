@@ -1,7 +1,7 @@
 Frontend developers bookmarks
 ===========================
 
-> I took all the bookmarks of my browser to put them here. Good luck to read everything.
+> I took all my browser's bookmarks to put them here. Good luck to read everything.
 
 ## Made by Google
 + [Web Starter Kit by Google](https://github.com/google/web-starter-kit)
