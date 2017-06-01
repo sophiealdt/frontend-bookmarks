@@ -37,7 +37,8 @@ Frontend developers bookmarks
 + [CSS Triggers](https://csstriggers.com/) — A reference for the render impact of mutating CSS properties.
 + [From Sass to PostCSS](https://tylergaw.com/articles/sass-to-postcss) — Making the switch from the long time go-to Sass, to a new PostCSS/cssnext styling setup.
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-+ [Learn CSS Grid](http://learncssgrid.com/) —  A guide to learn CSS Grid
++ [Learn CSS Grid](http://learncssgrid.com/) — A guide to learn CSS Grid
++ [CSS Grid Layout, guide complet](https://la-cascade.io/css-grid-layout-guide-complet/) - Le guide complet pour tout comprendre du module CSS Grid Layout _(french)_
 + [CSS3 Grid Layout](https://www.alsacreations.com/article/lire/1388-css3-grid-layout.html) - Grid layout module tutorial _(french)_
 
 ## Sass
