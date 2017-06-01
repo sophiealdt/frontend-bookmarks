@@ -30,10 +30,10 @@ Frontend developers bookmarks
 + [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologies)
 + [Stylelint](http://stylelint.io/) — A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
 + [Lint your CSS with stylelint](https://css-tricks.com/stylelint/)
-+ [Line-height units](http://tzi.fr/css/line-height-units) — Which unit should we use for our CSS line-height? (28/10/2013)
++ [Line-height units](http://tzi.fr/css/line-height-units) — Which unit should we use for our CSS line-height? _(28/10/2013)_
 + [Flexbugs](https://github.com/philipwalton/flexbugs) — Community-curated list of flexbox issues and cross-browser workarounds for them.
 + [Flexbox Froggy](http://flexboxfroggy.com/) — Learn flexbox with Froggy and friends.
-+ [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) (French - 23/07/2012)
++ [Une feuille de styles de base pour le media print](http://www.alsacreations.com/astuce/lire/1160-une-feuille-de-styles-de-base-pour-le-media-print.html) _(french - 23/07/2012)_
 + [CSS Triggers](https://csstriggers.com/) — A reference for the render impact of mutating CSS properties.
 + [From Sass to PostCSS](https://tylergaw.com/articles/sass-to-postcss) — Making the switch from the long time go-to Sass, to a new PostCSS/cssnext styling setup.
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -45,7 +45,7 @@ Frontend developers bookmarks
 + [Sass 3.3 Maptastic paple](http://thesassway.com/news/sass-3-3-released) — New features in Sass version 3.3
 + [Sass Guidelines](https://sass-guidelin.es/) — An opinionated styleguide for writing sane, maintainable and scalable Sass.
 + [Sass & Compass color functions](http://jackiebalzer.com/color) — A visual guide to Sass & Compass color functions
-+ [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/) — One of the architectures for sass projects (27/02/2014)
++ [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/) — One of the architectures for sass projects _(27/02/2014)_
 + [Awesome Sass](https://github.com/Famolus/awesome-sass) — Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 
 ## Javascript
