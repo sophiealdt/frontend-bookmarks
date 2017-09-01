@@ -3,31 +3,32 @@ Frontend developers bookmarks
 
 > I took all my browser's bookmarks to put them here. Good luck to read everything.
 
-## Made by Google
-+ [Web Starter Kit by Google](https://github.com/google/web-starter-kit)
-+ [Mobile Website Speed Testing Tool by Google](https://testmysite.thinkwithgoogle.com/) — Test your sites performance on mobile with Google and receive recommendations for improving performance across all devices.
+## Guidelines
+
 + Google guides 
-    + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+    + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
     + [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
++ [Guidelines Alsacréations](https://www.alsacreations.com/outils/guidelines/)
++ [CSS Guidelines](http://cssguidelin.es/) — High-level advice and guidelines for writing sane, manageable, scalable CSS.
++ [Maintainable CSS](http://maintainablecss.com/) — MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
++ [Sass Guidelines](https://sass-guidelin.es/) — An opinionated styleguide for writing sane, maintainable and scalable Sass.
 
 ## Tools
 + [Can I use](http://caniuse.com/) — Support tables for HTML5, CSS3, etc
++ [Mobile Website Speed Testing Tool by Google](https://testmysite.thinkwithgoogle.com/) — Test your sites performance on mobile with Google and receive recommendations for improving performance across all devices.
 + Device sizes
     + [mydevice.io](http://www.mydevice.io/) — Web devices capabilities.
     + [Screensiz.es](http://screensiz.es/phone) — Database of screen specifications for the most popular devices on the market.
-+ [Modernizr Test Suit](http://modernizr.github.io/Modernizr/test/) — Test browser features with modernizr.
+<!--+ [Modernizr Test Suit](http://modernizr.github.io/Modernizr/test/) — Test browser features with modernizr.-->
 
 ## HTML
 + [W3C Markup Validation](https://validator.w3.org/)
 + [HTML Elements and Attributes](https://simon.html5.org/html-elements) — List of all HTML tags and attributes.
 + [BEM Methodology](https://en.bem.info/methodology/) — Naming convention - Block Element Modifier.
-+ [HEAD](https://github.com/joshbuchea/HEAD) — A list of everything that could go in the <head> of your document.
++ [HEAD](https://github.com/joshbuchea/HEAD) — A list of everything that could go in the head of your document.
 
 ## CSS
 + [CSS Reference](http://cssreference.io/) — A free visual guide to the most popular CSS properties.
-+ [CSS Guidelines](http://cssguidelin.es/) — High-level advice and guidelines for writing sane, manageable, scalable CSS.
-+ [Maintainable CSS](http://maintainablecss.com/) — MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
-+ [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologies)
 + [Stylelint](http://stylelint.io/) — A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
 + [Lint your CSS with stylelint](https://css-tricks.com/stylelint/)
 + [Line-height units](http://tzi.fr/css/line-height-units) — Which unit should we use for our CSS line-height? (28/10/2013)
@@ -39,11 +40,11 @@ Frontend developers bookmarks
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [Learn CSS Grid](http://learncssgrid.com/) —  A guide to learn CSS Grid
 + [CSS3 Grid Layout](https://www.alsacreations.com/article/lire/1388-css3-grid-layout.html) - Grid layout module tutorial _(french)_
++ [Liberating layout through css grid](https://cssgrid.cc/) - All about CSS Grid Layout
 
 ## Sass
 + [Sass Basics](http://sass-lang.com/guide) — Official Sass guide.
 + [Sass 3.3 Maptastic paple](http://thesassway.com/news/sass-3-3-released) — New features in Sass version 3.3
-+ [Sass Guidelines](https://sass-guidelin.es/) — An opinionated styleguide for writing sane, maintainable and scalable Sass.
 + [Sass & Compass color functions](http://jackiebalzer.com/color) — A visual guide to Sass & Compass color functions
 + [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/) — One of the architectures for sass projects (27/02/2014)
 + [Awesome Sass](https://github.com/Famolus/awesome-sass) — Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
@@ -64,6 +65,9 @@ Frontend developers bookmarks
 + [Defer images without jQuery or lazy loading](https://varvy.com/pagespeed/defer-images.html)
 + [CSS box-shadow Can Slow Down Scrolling](http://nerds.airbnb.com/box-shadows-are-expensive-to-paint/)
 
+## Starter kits
++ [Web Starter Kit by Google](https://github.com/google/web-starter-kit)
+
 ## Time-saving
 + [Browsersync](https://www.browsersync.io/) — Synchronised browser testing.
 
@@ -71,5 +75,6 @@ Frontend developers bookmarks
 + [Twig coding standards](https://www.drupal.org/docs/develop/coding-standards/twig-coding-standards) - Useful Twig coding standards
 
 ## Others
++ [Type Scale](http://type-scale.com/) - Preview and choose the right type scale for your project.
 + [Sharing Debugger — Facebook for Developers](https://developers.facebook.com/tools/debug/) — See what is shared on Facebook.
 + [EditorConfig](http://editorconfig.org/)
