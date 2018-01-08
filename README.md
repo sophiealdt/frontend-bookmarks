@@ -43,6 +43,7 @@ Frontend developers bookmarks
 + [CSS3 Grid Layout](https://www.alsacreations.com/article/lire/1388-css3-grid-layout.html) - Grid layout module tutorial _(french)_
 + [Liberating layout through css grid](https://cssgrid.cc/) - All about CSS Grid Layout
 + [Introduction to grid layout](https://mozilladevelopers.github.io/playground/) - Firefox devtools
++ [Web Font Optimisation](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization) - Web Fundamentals by Google
 + [Font-display](https://font-display.glitch.me/) - Small explainer and demo
 
 ## Sass
