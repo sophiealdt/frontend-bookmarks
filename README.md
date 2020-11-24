@@ -16,9 +16,13 @@ Frontend developers bookmarks
 + [Can I use](http://caniuse.com/) — Support tables for HTML5, CSS3, etc
 + [Measure by Google](https://web.dev/measure/) — See how well your website performs and get tips to improve your user experience.
 + [Mobile Website Speed Testing Tool](https://testmysite.thinkwithgoogle.com/) — Test your sites performance on mobile with Google and receive recommendations for improving performance across all devices.
-+ **Device sizes*
++ Device sizes
     + [mydevice.io](http://www.mydevice.io/) — Web devices capabilities.
     + [Screensiz.es](http://screensiz.es/phone) — Database of screen specifications for the most popular devices on the market.
+
+## Learning
++ [Learn by Google](https://web.dev/learn/) — Learn best practices for the modern web
++ [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) — by Microsoft
 
 ## HTML
 + [W3C Markup Validation](https://validator.w3.org/)
